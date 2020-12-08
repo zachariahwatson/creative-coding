@@ -1,6 +1,4 @@
 # creative-coding
-## [circles](/circles)
-![circles](/readmeimages/museums-victoria-RGW4s31f0fo-unsplash0001.jpg)
 ## [gradientgrid](/gradientgrid)
 ![gradientgrid](/readmeimages/done13.jpg)
 ## [imagerotateglitch](/imagerotateglitch)
@@ -8,8 +6,8 @@
 ## [lineweightv2](/lineweightv2)
 ![lineweightv2](/readmeimages/sort0003.jpg)
 ## [moireflow](/moireflow)
-![moireflow](/readmeimages/whiteonblackmoire.mp4)
+![moireflow](/readmeimages/100501001.jpg)
 ## [radargradient](/radargradient)
-![radargradient](/readmeimages/eberhard-grossgasteiger-Z43DYXaeKRs-unsplash.jpg)
+![radargradient](/readmeimages/jeff-brown-xOj6_Ha1_R8-unsplash - Copy.jpg)
 ## [recursivesquaresv2](/recursivesquaresv2)
 ![recursivesquaresv2](/readmeimages/F3HtFtU.jpg)
